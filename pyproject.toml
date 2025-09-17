@@ -1,0 +1,12 @@
+[project]
+name = "otus-data-provisioning"
+version = "0.1.0"
+description = "Data provisioning for Otus DE course"
+readme = "README.md"
+requires-python = "==3.11.7"
+dependencies = [
+    "ipykernel==6.30.1",
+    "matplotlib==3.10.6",
+    "notebook==7.4.5",
+    "pyspark==4.0.1",
+]
